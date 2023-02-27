@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
+djangorestframework = "*"
+pypdf2 = "*"
+simplejwt = "*"
+djangorestframework-simplejwt = "*"
+requests = "*"
 
 [dev-packages]
 
